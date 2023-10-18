@@ -1,12 +1,12 @@
 # CSE 15L Lab Report 1
 ## Yuchen Guo
 ***
-- **cd** w/ no argument: The current working directory is /home. The terminal return nothing but it's not an error because command cd is used to change directory but it is not given the path(no argument)
-- ![Image](cd1.png)
-- **ls** w/ no argument: The current working directory is /home. The return output lists all directories and files under the current working directory  because we did not put any arguments to give specific path. The output is not an error.
+- **cd** w/ no argument: The current working directory is /home/lecture1. The terminal does not give any output but the directory changes to the /home directory. This not an error
+- ![Image](cd1re.png)
+- **ls** w/ no argument: The current working directory is /home. The return output lists all directories and files under the current working directory because we did not put any arguments to give specific path. The output is not an error.
 - ![Image](ls1.png)
-- **cat** w/ no argument: The current working directory is /home. The return output is empty because cat command is used for showing the content of the file so it shows nothing since we did not put the filename. This might be an error. 
-- ![Image](cat1.png)
+- **cat** w/ no argument: The current working directory is /home. The return output is blank. But when I type anything to the terminal, it just return exactly what I typed, like echo. To end the task, we can use ctrl+C.  
+- ![Image](cat1re.png)
 - **cd** w/ path to a directory: The current working directory is /home, after execute the command, it changes to /home/lecture1. So, since we only change the working directory, there are no other outputs. And outputs have no errors.
 - ![Image](cd2.png)
 - **ls** w/ path to a directory: The current working directory is /home. The return output lists all directories and files under the directory called lecture1  The output is not an error.
