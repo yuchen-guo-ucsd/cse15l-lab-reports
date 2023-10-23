@@ -1,4 +1,4 @@
-# CSE 15L Lab Report 1
+# CSE 15L Lab Report 2
 ## Yuchen Guo
 ### Part1
 
