@@ -53,9 +53,11 @@ The num value gets increment to 2  and the message concatenates the string "2. H
 
 ### Part2
 
--![Image](ls1ssh.png)
--![Image](ls2ssh.png)
--![Image](ls3ssh.png)
+-1. ![Image](ls1ssh.png)
+
+-2. ![Image](ls2ssh.png)
+
+-3. ![Image](ls3ssh.png)
 
 ### Part3
 -I learned a lot about command line, like how to look up files or directories by using the terminal, and use ssh to log onto a remote server.
