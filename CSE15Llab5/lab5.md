@@ -117,7 +117,8 @@ java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnit
 ```
 
 Fixed bug:\
-![Image](fixed.png)
+
+![Image](fixed.png)\
 
 Change index1 to index2 in 'result.add(list2.get(index2))' so it fixed the bug;
 
