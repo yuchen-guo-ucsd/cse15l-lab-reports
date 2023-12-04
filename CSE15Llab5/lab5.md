@@ -17,8 +17,10 @@ I tried to use jdb and found that the whileloop starts at line 43 in ListExample
 ![Image](jdb2.png)
 
 **About the Setup**\
-The file Structure:\
+The file Structure:
+
 ![Image](fileStr.png)\
+
 Contents:\
 ListExampels.java
 ```
@@ -116,9 +118,10 @@ java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnit
 
 Fixed bug:\
 ![Image](fixed.png)
+
 Change index1 to index2 in 'result.add(list2.get(index2))' so it fixed the bug;
 
 
 ### Part2
-**Reflection**
+**Reflection**\
 I learned how to debugging use junit and jdb, which are super helpful for find those bugs and error in my programming projects. The activity that we were creating the GradeServer is pretty cool experience to be like a grader and kind of know the process that how the AutoGrader works on GradeScope. 
