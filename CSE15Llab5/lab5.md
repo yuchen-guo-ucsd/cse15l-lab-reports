@@ -17,8 +17,8 @@ I tried to use jdb and found that the whileloop starts at line 43 in ListExample
 ![Image](jdb2.png)
 
 **About the Setup**\
-*The file Structure:\ ![Image](fileStr.png)
-*Contents:\
+The file Structure:\ ![Image](fileStr.png)
+Contents:\
 ListExampels.java
 ```
 import java.util.ArrayList;
